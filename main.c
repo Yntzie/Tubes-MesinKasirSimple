@@ -1,10 +1,5 @@
 #include "header.h"
 
-//Nicholas Abed Nego Sinay 230712291
-//Kenzie Christ Yanto 230712298
-// Filbert Valent Wijaya 230712299
-//Putu Arya Natha Yudasemaara Widiananta 230712374
-
 int main(){
     Multilist L;
     string username, password;
